@@ -26,3 +26,4 @@ Vagrant.configure("2") do |config|
     docker ps
   SHELL
 end
+
