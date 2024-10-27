@@ -1,3 +1,7 @@
-1.Запази и стартирай Vagrant настройката:
+1.Запазете и стартирайте Vagrant настройката:
 vagrant up
-
+2.Влезте в машината и проверете Docker командите:
+vagrant ssh
+docker --version
+docker images
+docker ps
